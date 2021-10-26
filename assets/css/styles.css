@@ -1,0 +1,12 @@
+.container a{
+    text-decoration: none;
+    color: black;
+}
+
+#services-item{
+    padding-top: 180px;
+    width: 50%;
+}
+.footer{
+    color: white;
+}
